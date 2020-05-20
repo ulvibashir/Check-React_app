@@ -2,6 +2,7 @@ body {
   background-color: #eee;
   margin: 0;
   padding: 0;
+  min-width: 800px;
 }
 /* Login & Register Page*/
 .auth-container {
